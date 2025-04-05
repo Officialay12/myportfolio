@@ -14,13 +14,13 @@ Welcome to my Portfolio Website repository! This is a showcase of my skills, pro
 
 Here are a few projects you'll find in my portfolio:
 
-1. **Project A**: [Live Demo](#) | [Source Code](#)
+1. **Project A**: [Source Code](https://officialay12.github.io/myportfolio/eco.html)
    - Description: A brief overview of what this project entails and the technologies used.
    
-2. **Project B**: [Live Demo](#) | [Source Code](#)
+2. **Project B**: | [Source Code](https://officialay12.github.io/myportfolio/tm.html)
    - Description: Highlights of the features and challenges faced during development.
    
-3. **Project C**: [Live Demo](#) | [Source Code](#)
+3. **Project C**:[Source Code](https://officialay12.github.io/myportfolio/weather.html)
    - Description: The objectives of this project and the skills demonstrated.
 
 ## ⚙️ Technologies Used
@@ -36,7 +36,7 @@ To view my portfolio locally, follow these simple steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Officialay12/https://officialay12.github.io/myportfolio/port.html
    ```
    
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ To view my portfolio locally, follow these simple steps:
    cd portfolio-website
    ```
    
-3. Open `index.html` in your browser and enjoy! 🌍
+3. Open `https://officialay12.github.io/myportfolio/port.html` in your browser and enjoy! 🌍
 
 ## 🌈 Customization
 
